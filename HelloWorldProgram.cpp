@@ -4,7 +4,7 @@ using namespace std;
 int main()//main section which holdes the main content of the program
 {
 	//printing  hello world to the screen
-	cout<<"Hello, World!";
-	return 0;
+	cout<<"Hello, World!"; //output information on the screen
+	return 0; 
 }
 	
